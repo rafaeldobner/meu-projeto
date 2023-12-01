@@ -1,0 +1,44 @@
+#title{margin: auto;
+  width: 562px;
+  height: 112px;
+  top: 295px;
+  left: 365px;
+  }
+
+  body{margin: auto;
+width: 592px;
+text-align: center;}
+
+span {color:
+   #FF9900;
+}
+#pessoa{width: 348px;
+height: 223px;
+left: 474px;} 
+
+
+ p{font-family: Open Sans;
+  font-size: 14px;
+  line-height: 28px;
+ text-align: center;
+color: #7D7987;}
+
+ 
+ 
+ h1{font-family: 'Inter', sans-serif;
+  font-weight: normal;
+  }
+  h1 span{font-weight: bold;}
+
+  #email{color: orange;}
+  #insta{color: orange;}
+
+  #balls{position: fixed;
+    bottom: 0px;
+    right: 0px;
+    }
+
+    #line{width: 568px;
+      border: 1px solid #ECEFF2}
+
+  
